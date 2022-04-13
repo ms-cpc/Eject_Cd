@@ -1,0 +1,4 @@
+nircmd cdrom open a:
+nircmd cdrom close a:
+nircmd cdrom open b:
+nircmd cdrom close b:
